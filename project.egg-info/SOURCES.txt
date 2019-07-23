@@ -1,0 +1,13 @@
+setup.py
+day35g/__init__.py
+day35g/items.py
+day35g/middlewares.py
+day35g/pipelines.py
+day35g/settings.py
+day35g/spiders/__init__.py
+day35g/spiders/qu.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
